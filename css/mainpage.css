@@ -1,0 +1,17 @@
+@import url(https://fonts.googleapis.com/css?family=Alex+Brush);
+
+html {
+	display: table;
+	margin: auto;
+}
+
+body {
+
+}
+
+
+.logo {
+	font-family: 'Alex Brush', sans-serif;
+	color: #84e1e1;
+	font-size: 60px;
+}
